@@ -1,6 +1,7 @@
 package main;
 
 import model.*;
+import javax.swing.SwingUtilities;
 import controller.*;
 import gui.*;
 
